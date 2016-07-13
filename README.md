@@ -1,8 +1,6 @@
 # [sublime-markdown-improved](git@github.com:ZelphirKaltstahl/sublime-markdown-improved.git)
 
-> Extends _Markdown Extended_ with better and more complete syntax highlighting for lists and uses stronger (to me more visually pleasing) coloring. Also adds roman numbers lists to be highlighted.
-
-Get [Monokai Improved](https://github.com/ZelphirKaltstahl/sublime-markdown-improved) for better highlighting.
+> Extends _Markdown Extended_ with better and more complete syntax highlighting for lists. Also adds roman numbers lists to be highlighted.
 
 ## Getting Started
 
